@@ -1,5 +1,7 @@
 {
     "regions": [
-      "iad1"
+      "iad1",
+      "lhr1",
+      "fra1"
     ]
   }
